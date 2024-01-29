@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckgaithuma&label=Profile%20views&color=0e75b6&style=flat" alt="ckgaithuma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=2048x2048&w=is&k=20&c=bg3j_lxg8rjaW1vvargY4NBY5nb3pkwYTkxOu3tuJDU=" alt="ckgaithuma" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ckgaithuma" target="blank"><img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=2048x2048&w=is&k=20&c=bg3j_lxg8rjaW1vvargY4NBY5nb3pkwYTkxOu3tuJDU=" alt="ckgaithuma" /></a> </p>
 
 - 💬 Ask me about **Python, Excel, Machine Learning**
